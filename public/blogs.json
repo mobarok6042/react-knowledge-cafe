@@ -1,0 +1,47 @@
+[
+  {
+    "id": "001",
+    "cover": "https://picsum.photos/seed/book1/600/400",
+    "title": "Unveiling the Secrets of JavaScript Functions",
+    "author-img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "posted-date": "2025-06-05",
+    "reading-time": 6,
+    "hashtags": ["#JavaScript", "#WebDev", "#Functions"]
+  },
+  {
+    "id": "002",
+    "cover": "https://picsum.photos/seed/book2/600/400",
+    "title": "How I Built a Mobile Shop Using APIs",
+    "author-img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "posted-date": "2025-06-02",
+    "reading-time": 8,
+    "hashtags": ["#API", "#Frontend", "#Projects"]
+  },
+  {
+    "id": "003",
+    "cover": "https://picsum.photos/seed/book3/600/400",
+    "title": "Mastering the Art of Debugging Like a Pro",
+    "author-img": "https://randomuser.me/api/portraits/men/30.jpg",
+    "posted-date": "2025-06-01",
+    "reading-time": 5,
+    "hashtags": ["#Debugging", "#CodingTips", "#BeginnerDev"]
+  },
+  {
+    "id": "004",
+    "cover": "https://picsum.photos/seed/book4/600/400",
+    "title": "My Freelance Journey on Upwork and Fiverr",
+    "author-img": "https://randomuser.me/api/portraits/women/66.jpg",
+    "posted-date": "2025-05-30",
+    "reading-time": 7,
+    "hashtags": ["#Freelancing", "#Upwork", "#CareerTips"]
+  },
+  {
+    "id": "005",
+    "cover": "https://picsum.photos/seed/book5/600/400",
+    "title": "From Distraction to Dedication: My Coding Comeback",
+    "author-img": "https://randomuser.me/api/portraits/men/17.jpg",
+    "posted-date": "2025-05-28",
+    "reading-time": 4,
+    "hashtags": ["#Productivity", "#SelfImprovement", "#DevLife"]
+  }
+]
