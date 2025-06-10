@@ -5,7 +5,6 @@ import Bookmarks from './components/Bookmarks/Bookmarks.jsx'
 
 function App() {
 
-
   return (
     <>
       <Header></Header>
