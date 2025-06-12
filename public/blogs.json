@@ -7,7 +7,11 @@
     "author_img": "https://randomuser.me/api/portraits/men/12.jpg",
     "posted_date": "2025-06-05",
     "reading_time": 6,
-    "hashtags": ["#JavaScript", "#WebDev", "#Functions"]
+    "hashtags": [
+      "#JavaScript",
+      "#WebDev",
+      "#Functions"
+    ]
   },
   {
     "id": "002",
@@ -17,7 +21,11 @@
     "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
     "posted_date": "2025-06-02",
     "reading_time": 8,
-    "hashtags": ["#API", "#Frontend", "#Projects"]
+    "hashtags": [
+      "#API",
+      "#Frontend",
+      "#Projects"
+    ]
   },
   {
     "id": "003",
@@ -27,7 +35,11 @@
     "author_img": "https://randomuser.me/api/portraits/men/30.jpg",
     "posted_date": "2025-06-01",
     "reading_time": 5,
-    "hashtags": ["#Debugging", "#CodingTips", "#BeginnerDev"]
+    "hashtags": [
+      "#Debugging",
+      "#CodingTips",
+      "#BeginnerDev"
+    ]
   },
   {
     "id": "004",
@@ -37,7 +49,11 @@
     "author_img": "https://randomuser.me/api/portraits/women/66.jpg",
     "posted_date": "2025-05-30",
     "reading_time": 7,
-    "hashtags": ["#Freelancing", "#Upwork", "#CareerTips"]
+    "hashtags": [
+      "#Freelancing",
+      "#Upwork",
+      "#CareerTips"
+    ]
   },
   {
     "id": "005",
@@ -47,6 +63,10 @@
     "author_img": "https://randomuser.me/api/portraits/men/17.jpg",
     "posted_date": "2025-05-28",
     "reading_time": 4,
-    "hashtags": ["#Productivity", "#SelfImprovement", "#DevLife"]
+    "hashtags": [
+      "#Productivity",
+      "#SelfImprovement",
+      "#DevLife"
+    ]
   }
 ]

@@ -26,3 +26,5 @@ function Blogs() {
 
 
 export default Blogs;
+
+// I have to do prtatice very hard and continuesly to achieve the utmost success in life.
